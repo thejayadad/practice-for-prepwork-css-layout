@@ -1,0 +1,21 @@
+
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    background: lightblue;
+    padding: 10px;
+}
+
+fieldset {
+    padding: 30px;
+}
+
+div {
+    padding: 10px;
+}
